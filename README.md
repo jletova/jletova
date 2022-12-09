@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I’m looking for a new job opportunites 💬
+### Open to work 💻
 
 <!--
 **jletova/jletova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
